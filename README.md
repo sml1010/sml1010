@@ -3,6 +3,5 @@
 ## A few things about me:
 
 - 🌱 I'm currently studying Health Engineerin in the University of Burgos.
-- 👨‍💻 I'm currently working in a grupal seminar. 
-- 🤓 I'm interested in neuroscience. 
+- 🤓 I'm interested in neuroscience and prosthesis creation.
 - 📫 You can reach me at saramedalopez@gmail.com
