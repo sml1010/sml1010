@@ -3,5 +3,5 @@
 ## A few things about me:
 
 - 🌱 I'm currently studying Health Engineering in the University of Burgos.
-- 🤓 I'm interested in neuroscience and music.
+- 🤓 I'm interested in Neuroscience and Music.
 - 📫 You can reach me at sml1010@alu.ubu.es
