@@ -5,7 +5,7 @@
 I am finishing a degree in Bioengineering at the University of Burgos.
  - 👨‍💻 I'm currently working on my Bachelor's thesis, focusing on Sonification of Neuronal Activity.
  - 🤓 I'm interested in Neuroscience, 3D Bioprinting for Biomedical Applications, and the use of AI models for Medical Diagnosis.
- - 🤝 I'am collaborating with the Biomedical Neuroengineering Research Group at the Bioengineering Institute of Elche.
+ - 🤝 I'am collaborating with the Biomedical Neuroengineering Research Group at the Bioengineering Institute (UMH).
  - 📫 You can reach me at medalopezsara@gmail.com
 
 ---
