@@ -9,7 +9,7 @@ I am finishing a degree in Bioengineering at the University of Burgos.
  - 📫 You can reach me at medalopezsara@gmail.com
 
 ---
-### **My social media:**
+### **My Social Media:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saramedalopez/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/saramedl/)
