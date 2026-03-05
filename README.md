@@ -14,7 +14,7 @@ I am about to finish a degree in Health Engineering at the University of Burgos.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saramedalopez/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/saramedl/)
 
--
+------
 ### Languages and Tools :
 
 <div>
