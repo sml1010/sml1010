@@ -9,13 +9,13 @@ I am about to finish a degree in Health Engineering at the University of Burgos.
  - 📫 You can reach me at medalopezsara@gmail.com
 
 ---
-### **My Social Media:**
+### **My social media:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saramedalopez/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/saramedl/)
 
-------
-### Languages and Tools :
+---
+### Languages and tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
