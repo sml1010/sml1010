@@ -7,15 +7,14 @@ I am finishing a degree in Bioengineering at the University of Burgos.
  - 🤓 I'm interested in Neuroscience, 3D Bioprinting for Biomedical Applications, and the use of AI models for Medical Diagnosis.
  - 🤝 I'am collaborating with the Biomedical Neuroengineering Research Group at the Bioengineering Institute of Elche.
  - 📫 You can reach me at medalopezsara@gmail.com
----
+--
 
-### 🌐 **My social media:**
+### **My social media:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saramedalopez/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/saramedl/)
 
----
-
+--
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
