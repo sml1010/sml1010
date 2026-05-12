@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sara, welcome to my profile.
+# Hi there 👋 I'm Sara, welcome to my profile!
 
 ### **A few things about me:**
 
